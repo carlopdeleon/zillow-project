@@ -28,7 +28,7 @@
 
 | Feature | Definition |
 | :-- | :-- |
-| fips | Federal Information Processing System<br>fips 6037: Los Angeles County<br>fips 6059: Orange County<br>fips 6111: Ventura County |
+| fips | Federal Information Processing System<br>- fips 6037: Los Angeles County<br>- fips 6059: Orange County<br>- fips 6111: Ventura County |
 | tax_value | the house property value in USD | 
 
 # Steps to Reproduce
